@@ -1,0 +1,1 @@
+ B:\\mecaro_test\\.dart_tool\\flutter_build\\c145c1c52448d9a029666f69cfbf9da6\\native_assets.yaml: 
